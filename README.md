@@ -1,4 +1,7 @@
 # Guess-My-Number
+
 Guess My Number
-Author: Pham Quang Hoan / Ga Tap Bay
+
+Author: Pham Quang Hoan
+
 Preview: https://gatapbay.github.io/Guess-My-Number/
